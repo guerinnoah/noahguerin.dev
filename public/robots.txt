@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noahguerin.me/sitemap.xml
+Sitemap: https://noahguerin.dev/sitemap.xml
